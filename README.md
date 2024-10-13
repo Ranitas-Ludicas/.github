@@ -1,2 +1,4 @@
-# .github
-Una comunidad de desarrollo de juegos en Guanajuato
+# Ranitas Lúdicas 🕹️✨
+¡Una comunidad de desarrollo de juegos en Guanajuato!
+
+## ¡Bienvenide!
