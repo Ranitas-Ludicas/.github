@@ -108,10 +108,10 @@ Toda persona a la que se pida que abandone un comportamiento inaceptable deberá
 
 Cualquier persona que abuse del proceso de denuncia será considerado infractor de estas directrices y estará sujeto a las mismas consecuencias. No se aceptarán ni tolerarán las denuncias falsas, especialmente con fines de represalia o exclusión.
 
-El comité directivo tiene el derecho y responsabilidad (a través de un acuerdo democrático) de eliminar comentarios u otras acciones u objetos que no se apeguen al Código de Conducta, o suspender temporal o permanentemente a cualquier miembro por otros comportamientos que consideren inapropiados, amenzadores, ofensivos o perjudiciales.
+El comité directivo tiene el derecho y responsabilidad (a través de un acuerdo democrático) de eliminar comentarios u otras acciones u objetos que no se apeguen al Código de Conducta, o suspender temporal o permanentemente a cualquier miembro por otros comportamientos que consideren inapropiados, amenazadores, ofensivos o perjudiciales.
 
 ## Reportes
-Si crees que está experimentando un comportamiento inaceptable que no será tolerado según lo descrito anteriormente, póngase en contacto con el comité directivo por medio del [formulario de reportes PENDIENTE](https://forms.office.com/r/6LRkasnMaH) o enviando un correo electrónico a beedevelopers@gmail.com . El comité directivo tomará en cuenta todo lo reportado, se compromete a darte una respuesta y seguimiento del caso. Reiteramos nuestro compromiso con el bienestar de todas las personas relacionadas con el grupo (participantes, ponentes, miembros, etc.).
+Si crees que está experimentando un comportamiento inaceptable que no será tolerado según lo descrito anteriormente, póngase en contacto con el comité directivo por medio del [formulario de reportes PENDIENTE](https://forms.office.com/r/6LRkasnMaH) o enviando un correo electrónico a contactoranitas@gmail.com . El comité directivo tomará en cuenta todo lo reportado, se compromete a darte una respuesta y seguimiento del caso. Reiteramos nuestro compromiso con el bienestar de todas las personas relacionadas con el grupo (participantes, ponentes, miembros, etc.).
 
 >[!NOTE]
 > La recopilación de información para el reporte solo se llevará a cabo con el propósito de dar seguimiento. Su confidencialidad y seguridad son nuestra máxima prioridad.
