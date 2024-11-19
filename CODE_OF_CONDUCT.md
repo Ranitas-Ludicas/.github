@@ -11,7 +11,6 @@ La comunidad de Ranitas Lúdicas está comprometida con **crear y mantener un es
 
 ### ¡Todas las experiencias de juego son igual de valiosas 💖!
 
-# Código de conducta
 Toda persona que participe dentro de los siguientes contextos relacionadas a la comunidad se compromete a respetar y seguir el presente código de conducta:
 - Miembros activos de la comunidad.
 - Trabajar con otras personas de la comunidad (de manera virtual o presencial).
